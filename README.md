@@ -8,7 +8,7 @@
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
-**Aplicações e Dados**
+**Linguagens e Frameworks**
 
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
 
