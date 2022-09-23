@@ -1,69 +1,20 @@
-<h3> :man: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp;Adquirindo experiência com tecnologias voltadas para o back-end, como Django e ExpressJS.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-- 🎓 &nbsp; Estudando **Ciência da Computação** na <a href="https://www.unifal-mg.edu.br/portal/">Universidade Federal de Alfenas</a>.
+<p align="left"> 
+  Olá!! Meu nome é José Flávio, e sou formado no Técnico em Informática pelo IFSULDEMINAS.<br>
+  Atualmente sou estudante de <strong>Ciência da Computação</strong> na Universidade Federal de Alfenas, também sou bolsista de Iniciação Científica pela FAPEMIG,  pesquisando sobre heurísticas para o Problema da Árvore de Steiner.
+</p>
 
-- 🌱 &nbsp; Aprendendo mais sobre **Estruturas de Dados, Algoritmos e outros Aspectos Teóricos da Computação**.
+<p align="left">
+  🦄 Linguagens: <strong>C</strong>, <strong>Python</strong>, <strong>JAVA</strong>
+							  
+</p>
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<p align="left">
+  💌 Contato: ⤵️
+</p>
 
-**Linguagens e Frameworks**
-
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
-
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
-
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-
-![ExpressJS](https://img.shields.io/badge/-ExpressJS-333333?style=flat&logo=express)
-
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3)
-
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
-
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-
-**Utilidades**
-
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-
-
-**DevOps**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
-
-**Ferramentas de Desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=atom&logoColor=success)
-
-<br/>
-
-<a href="https://github.com/joseflaviol">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseflaviol&theme=dracula&show_icons=true" />
-
-</a>
-
-<br/>
-
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3>
-
-![Gmail Badge](https://img.shields.io/badge/-jose.flavio@sou.unifal--mg.edu.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jose.flavio@sou.unifal-mg.edu.br)
-
-[![GitHub José Flávio]( https://img.shields.io/github/followers/joseflaviol?label=follow&style=social)](https://github.com/joseflaviol)
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=jose.flavio@sou.unifal-mg.edu.br" /></a>
