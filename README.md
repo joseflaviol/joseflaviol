@@ -3,7 +3,7 @@
 
 <p align="left"> 
   Olá!! Meu nome é José Flávio, e sou formado no curso Técnico em Informática pelo IFSULDEMINAS.<br>
-  Atualmente sou estudante de <strong>Ciência da Computação</strong> na Universidade Federal de Alfenas, também sou bolsista de Iniciação Científica,  pesquisando sobre heurísticas para o Problema da Árvore de Steiner.
+  Atualmente sou estudante de <strong>Ciência da Computação</strong> na Universidade Federal de Alfenas, também sou bolsista de Iniciação Científica,  pesquisando sobre heurísticas para o Problema da Árvore de Steiner com Arestas Rotuladas.
 </p>
 
 <p align="left">
