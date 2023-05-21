@@ -1,20 +1,16 @@
+# Olá, eu sou José Flávio
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+Sou estudante de Ciência da Computação na Universidade Federal de Alfenas e formado no curso técnico em Informática pelo IFSULDEMINAS - Campus Inconfidentes. Atualmente, sou bolsista de iniciação científica, pesquisando heurísticas para otimização de problemas de redes em grafos.
 
-<p align="left"> 
-  Olá!! Meu nome é José Flávio, e sou formado no curso Técnico em Informática pelo IFSULDEMINAS.<br>
-  Atualmente sou estudante de <strong>Ciência da Computação</strong> na Universidade Federal de Alfenas, também sou bolsista de Iniciação Científica,  pesquisando sobre heurísticas para o Problema da Árvore de Steiner com Arestas Rotuladas.
-</p>
+## Interesses
 
-<p align="left">
-  🦄 Linguagens: <strong>C</strong>, <strong>Python</strong>, <strong>JAVA</strong>
-							  
-</p>
+- Algoritmos em grafos
+- Aprendizado de máquina
+- Algoritmos e estruturas de dados
+- Heurísticas e metaheurísticas
 
-<p align="left">
-  💌 Contato: ⤵️
-</p>
+## Como me encontrar
 
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=jose.flavio@sou.unifal-mg.edu.br" /></a>
+- LinkedIn: https://www.linkedin.com/in/joseflaviol
+- E-mail: jose.flavio@sou.unifal-mg.edu.br
+
