@@ -1,4 +1,4 @@
-# Olá, eu sou José Flávio
+# Olá, eu sou o José Flávio
 
 Sou estudante de Ciência da Computação na Universidade Federal de Alfenas e formado no curso técnico em Informática pelo IFSULDEMINAS - Campus Inconfidentes. Atualmente, sou bolsista de iniciação científica, pesquisando heurísticas para otimização de problemas de redes em grafos.
 
