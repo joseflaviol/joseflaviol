@@ -9,7 +9,7 @@ Sou estudante de Ciência da Computação na Universidade Federal de Alfenas e f
 - Algoritmos e estruturas de dados
 - Heurísticas e metaheurísticas
 
-## Como me encontrar
+## Onde me encontrar
 
 - LinkedIn: https://www.linkedin.com/in/joseflaviol
 - E-mail: jose.flavio@sou.unifal-mg.edu.br
