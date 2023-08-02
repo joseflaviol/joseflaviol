@@ -13,5 +13,4 @@ Sou estudante de Ciência da Computação na Universidade Federal de Alfenas e f
 
 - LinkedIn: https://www.linkedin.com/in/joseflaviol
 - E-mail: jose.flavio@sou.unifal-mg.edu.br
-- Kaggle: https://www.kaggle.com/joseflavio
 
