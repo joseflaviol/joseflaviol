@@ -1,6 +1,6 @@
 # Olá, eu sou o José Flávio
 
-Sou estudante de Ciência da Computação na Universidade Federal de Alfenas e formado no curso técnico em Informática pelo IFSULDEMINAS - Campus Inconfidentes. Possuo experiência com heurísticas, meta-heurísticas e problemas NP-Completos. Atualmente, trabalho como desenvolvedor back-end na <a href="https://www.adaptweb.com.br/" target="blank">AdaptWeb</a>.
+Sou estudante de Ciência da Computação na Universidade Federal de Alfenas e formado no curso técnico em Informática pelo IFSULDEMINAS - Campus Inconfidentes. Possuo experiência com heurísticas, meta-heurísticas e problemas NP-Completos. Atualmente, trabalho como desenvolvedor fullstack na <a href="https://www.adaptweb.com.br/" target="blank">AdaptWeb</a>.
 
 ## Interesses
 
